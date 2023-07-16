@@ -19,8 +19,8 @@
   "Punchline": "A parsing plugin.",
   "IsHide": "False",
   "IsTestingExclusive": "False",
-  "DownloadLinkInstall": "https://github.com/dynamicfire/IINACT/releases/download/v2.3.0.2/IINACT.zip",
-  "DownloadLinkTesting": "https://github.com/dynamicfire/IINACT/releases/download/v2.3.0.2/IINACT.zip",
-  "DownloadLinkUpdate": "https://github.com/dynamicfire/IINACT/releases/download/v2.3.0.2/IINACT.zip"
+  "DownloadLinkInstall": "https://github.com/dynamicfire/IINACT/releases/download/v0.4.6/IINACT.zip",
+  "DownloadLinkTesting": "https://github.com/dynamicfire/IINACT/releases/download/v0.4.6/IINACT.zip",
+  "DownloadLinkUpdate": "https://github.com/dynamicfire/IINACT/releases/download/v0.4.6/IINACT.zip"
 }
 ]
